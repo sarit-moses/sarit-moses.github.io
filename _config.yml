@@ -1,14 +1,14 @@
 # Your name and what you do
-name: Eve Adam
-bio: Software Developer
+name: Sarit Moses
+bio: Master's student at WIS
 
-description: Eve Adam's Personal Website
+description: Sarit Moses's Personal Website
 
 # Profile picture
 picture: assets/images/profile small .jpg
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://sarit-moses.github.io
 
 # do you want to display social media links? true or false
 social-media: true
