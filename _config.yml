@@ -5,7 +5,7 @@ bio: Master's student at WIS
 description: Sarit Moses's Personal Website
 
 # Profile picture
-picture: https://github.com/sarit-moses/sarit-moses.github.io/blob/master/assets/images/profile%20small%20.jpg
+picture: /assets/images/profile%20small%20.jpg
 
 # your url: http://USERNAME.github.io
 url: https://sarit-moses.github.io
@@ -14,11 +14,11 @@ url: https://sarit-moses.github.io
 social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
-# facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+facebook: Sarit Moses
+#twitter: mytwitter
+linkedin: Sarit Moses
+#github: mygithub
+email: sarit5761@gmail.com
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -45,14 +45,10 @@ skills: true
 
 # add your skills here
 skills-list:
-    - HTML, Jade
-    - CSS (Stylus, Sass, Less)
-    - Javascript, NodeJS
-    - AngularJS, ReactJS
-    - Java, Android
     - Python
-    - MySQL - MongoDB    
-    - Git    
+    - R
+    - Lab experience - microbiology, molecular biology
+    - Fluent Hebrew and English   
 
 # do you want to display a projects section? true or false
 projects: true
@@ -60,21 +56,14 @@ projects: true
 # add your projects here
 project-list:
     Eve:
-        name: Eve
-        description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites
-        url: https://github.com/jibolash/Eve
+        name: ResearchGate profile
+        description: 4 papers published before the age of 21
+        url: https://www.researchgate.net/profile/Sarit-Moses
     World-Cup-History:
-        name: World Cup  History
-        description: npm package for FIFA World cup historical data
-        url: https://github.com/jibolash/world-cup-history
-    Tweeter:
-        name: Tweeter
-        description: A Twitter inspired web application built with Angular 5
-        url: https://tweetermum.herokuapp.com
-    Transcend:
-        name: Transcend
-        description: An android app for meditation and mindfulness
-        url: https://github.com/Khosbayar/Transcend
+        name: Genetics of autism
+        description: Research assistant for 2 years in a neuroscience lab
+        url: https://neurogenetics.huji.ac.il/
+    
 
 
 # do you want to display the theme attribution? true or false
